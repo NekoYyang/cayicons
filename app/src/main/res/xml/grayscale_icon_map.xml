@@ -2,6 +2,7 @@
 <icons>
     <icon drawable="@drawable/aegis_authenticator" package="com.beemdevelopment.aegis" name="Aegis Authenticator" />
     <icon drawable="@drawable/amazon_alexa" package="com.amazon.dee.app" name="Amazon Alexa" />
+    <icon drawable="@drawable/zerotier" package="com.zerotier.one" name="Zerotier One"/>
     <icon drawable="@drawable/amazon_music" package="com.amazon.mp3" name="Amazon Music" />
     <icon drawable="@drawable/amazon_music" package="com.sonyericsson.music" name="Music" />
     <icon drawable="@drawable/amazon_prime_video" package="com.amazon.avod.thirdpartyclient" name="Amazon Prime Video" />
@@ -186,6 +187,7 @@
     <icon drawable="@drawable/life360" package="com.life360.android.safetymapd" name="Life360" />
     <icon drawable="@drawable/line" package="jp.naver.line.android" name="LINE" />
     <icon drawable="@drawable/linkedin" package="com.linkedin.android" name="LinkedIn" />
+    <icon drawable="@drawable/magisk" package="io.github.huskydg.magisk" name="Magisk Delta" />
     <icon drawable="@drawable/magisk" package="com.topjohnwu.magisk" name="Magisk" />
     <icon drawable="@drawable/ic_com_google_android_apps_maps" package="com.google.android.apps.maps" name="Google Maps" />
     <icon drawable="@drawable/ic_com_google_android_apps_maps" package="com.google.android.apps.mapslite" name="Google Maps" />
